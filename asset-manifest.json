@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alessandroscarlatti.github.io/csb-73ff3v/static/css/main.db74e75c.chunk.css",
+    "main.js": "https://alessandroscarlatti.github.io/csb-73ff3v/static/js/main.62d74f9d.chunk.js",
+    "main.js.map": "https://alessandroscarlatti.github.io/csb-73ff3v/static/js/main.62d74f9d.chunk.js.map",
+    "runtime-main.js": "https://alessandroscarlatti.github.io/csb-73ff3v/static/js/runtime-main.d33ff33c.js",
+    "runtime-main.js.map": "https://alessandroscarlatti.github.io/csb-73ff3v/static/js/runtime-main.d33ff33c.js.map",
+    "static/js/2.d0d52637.chunk.js": "https://alessandroscarlatti.github.io/csb-73ff3v/static/js/2.d0d52637.chunk.js",
+    "static/js/2.d0d52637.chunk.js.map": "https://alessandroscarlatti.github.io/csb-73ff3v/static/js/2.d0d52637.chunk.js.map",
+    "index.html": "https://alessandroscarlatti.github.io/csb-73ff3v/index.html",
+    "static/css/main.db74e75c.chunk.css.map": "https://alessandroscarlatti.github.io/csb-73ff3v/static/css/main.db74e75c.chunk.css.map",
+    "static/js/2.d0d52637.chunk.js.LICENSE.txt": "https://alessandroscarlatti.github.io/csb-73ff3v/static/js/2.d0d52637.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d33ff33c.js",
+    "static/js/2.d0d52637.chunk.js",
+    "static/css/main.db74e75c.chunk.css",
+    "static/js/main.62d74f9d.chunk.js"
+  ]
+}
